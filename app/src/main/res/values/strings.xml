@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Trenażer</string>
+    <string name="details_button">Pokaż szczegóły</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="workout_title">Tytuł treningu</string>
+    <string name="workout_description">Opis treningu</string>
+</resources>
