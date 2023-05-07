@@ -4,4 +4,7 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="workout_title">Tytuł treningu</string>
     <string name="workout_description">Opis treningu</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Kasuj</string>
 </resources>
